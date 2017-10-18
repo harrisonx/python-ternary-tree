@@ -158,9 +158,7 @@ class TernaryTree:
       if self.root:
         return True
       return False
-tree = TernaryTree()
-tree.delete(3)
-print(tree)
+
 
 
 
